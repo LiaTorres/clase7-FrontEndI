@@ -1,0 +1,38 @@
+header {
+    text-align: center;
+    background-color: #E6E6E6;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 10px;
+}
+
+p {
+    font-style: italic;
+}
+
+.subtitulo {
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #005677;
+    color: white;
+    font-weight: bold;
+}
+
+.links {
+    width: 20px;
+    height: 20px;
+}
